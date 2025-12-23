@@ -2,7 +2,7 @@
 Current Data Engineer with specialized past experience with marketing and IOT related projects. Analytics minded with a focus on accomplishing business objectives with data.
 
 ### Current Tech Stack
--AWS, Databricks, Snowflake, Dbt, Tableau, ThoughtSpot, Airflow, Github, Docker, PostMan
+-AWS, Databricks, Snowflake, dbt, Tableau, ThoughtSpot, Airflow, Github, Docker, PostMan
 
 ### Current Programming Languages
 -SQL, Python
@@ -13,13 +13,13 @@ Current Data Engineer with specialized past experience with marketing and IOT re
 - Alteryx Credentialed
 - Snowflake SnowPro Core (in progress)
 - Dbt Analytics Engineer (in progress)
-- Astronomer Airflow 101 (in progress)
 
 ### Projects
-1. Snowflake and dbt demo (in progress)
-2. Airflow Postgres table (in progress)
+1.
 
 ### Work Experience 
+-(Current): Data Engineer @ Red Bull
+
 -Data Engineer @ VIZIO/Walmart 
 
 -Business Marketing Analyst @ Western Digital
@@ -28,11 +28,9 @@ Current Data Engineer with specialized past experience with marketing and IOT re
 
 ### Education
 -University of Oregon, Sports Business, MBA
-
 -Syracuse University, Biochemistry, BS
-
 -Syracuse University, Economics, BA 
 
 ### Hobbies
 -Competitive Marathon Runner (PB: 2:37:22)
--Valor Track Club
+
